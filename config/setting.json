@@ -1,0 +1,13 @@
+{
+  "BanChats": true,
+  "AutoRead": true,
+  "AutoRecording": true,
+  "AutoReply": true,
+  "NamaSession": "sessions",
+  "NamaOwner": "Kevin",
+  "NamaBot": "Turu Ges",
+  "NomorOwner": "6288975357077",
+  "NomorOwner2": "6285884135055@s.whatsapp.net",
+  "NomorBot": "6288975357077",
+  "Limit": 20
+}
